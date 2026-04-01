@@ -18,7 +18,7 @@
 
 ## 🏢 Tentang Kami
 
-> **PT. Muda Digital Kreatif** adalah agensi digital kreatif yang berfokus pada pengembangan solusi teknologi inovatif untuk bisnis modern di Indonesia dan Asia Tenggara.
+> **PT. Muda Digital Kreatif** adalah agensi digital kreatif yang berfokus pada pengembangan solusi teknologi inovatif untuk bisnis modern di Aceh dan Indonesia.
 
 Kami percaya bahwa teknologi yang tepat dapat mengubah cara bisnis beroperasi dan berkembang. Dengan tim yang berpengalaman dan bersemangat, kami menghadirkan solusi digital yang tidak hanya fungsional, tetapi juga estetis dan berdampak.
 
