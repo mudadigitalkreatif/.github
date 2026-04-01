@@ -10,7 +10,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-mudakreatif.com-6366F1?style=for-the-badge)](https://mudakreatif.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mudadigitalkreatif-181717?style=for-the-badge&logo=github)](https://github.com/mudadigitalkreatif)
-[![Email](https://img.shields.io/badge/Email-hello@mudakreatif.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@mudakreatif.com)
+[![Email](https://img.shields.io/badge/Email-dev@mudakreatif.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@mudakreatif.com)
 
 </div>
 
@@ -112,7 +112,7 @@ Kami selalu terbuka untuk kolaborasi dengan:
 | Channel | Link |
 |---------|------|
 | 🌐 Website | [mudakreatif.com](https://mudakreatif.com) |
-| 📧 Email | [hello@mudakreatif.com](mailto:hello@mudakreatif.com) |
+| 📧 Email | [dev@mudakreatif.com](mailto:dev@mudakreatif.com) |
 
 <br/>
 
