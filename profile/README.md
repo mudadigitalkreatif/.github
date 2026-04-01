@@ -94,8 +94,6 @@ Kami selalu terbuka untuk kolaborasi dengan:
 |---------|------|
 | 🌐 Website | [mudakreatif.com](https://mudakreatif.com) |
 | 📧 Email | [hello@mudakreatif.com](mailto:hello@mudakreatif.com) |
-| 💼 LinkedIn | [linkedin.com/company/mudadigitalkreatif](https://linkedin.com/company/mudadigitalkreatif) |
-| 📸 Instagram | [@mudadigitalkreatif](https://instagram.com/mudadigitalkreatif) |
 
 <br/>
 
